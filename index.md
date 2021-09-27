@@ -1,20 +1,23 @@
 # Bjorn Johnson
 ## Senior CS Major at UCSD
 ### Student in CSE 110
-#### Some more info about me
+#### Prepare to learn some facts about me
 
+I was born in *Mountain View*
 
-*Italics*
+I **really** want a dog (Please enjoy this picture of a dog I wish was mine)
+![Dog](https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/05161950/Golden-Retriever-Slide-11.jpg)
 
-**Bold**
+I've ~~never~~ sometimes made mistakes in my code
 
-~~Strikethrough~~
+**Okay maybe I make more than a _few_ mistakes**
 
-**Some stuff with _more_ stuff**
+***But that isn't important!***
 
-***This is incredibly important***
-
-> This is a quote
+A mantra I try to live by
+> Hakuna Matata
+> 
+> -Pumba
 
 I can write `code`
 
@@ -48,6 +51,3 @@ My CSE 110 TODO List:
 - [x] This lab
 - [ ] The next lab
 - [ ] The one after that
-
-Please enjoy this picture of a dog I wish was mine
-![Dog](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.akc.org%2Fdog-breeds%2Fgolden-retriever%2F&psig=AOvVaw0swq08cT9P-ucUBpp8Jbos&ust=1632868376954000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDsou-aoPMCFQAAAAAdAAAAABAD)
